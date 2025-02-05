@@ -1,4 +1,4 @@
-# Tableau-Project
+# coffee-chain Dashboard
 Creation of coffee company dashboard
 
 Done under survellience of Cifer Schools
